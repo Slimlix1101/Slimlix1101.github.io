@@ -1,4 +1,2 @@
----
-layout: single
----
 # Test
+This is the index for ctf list
